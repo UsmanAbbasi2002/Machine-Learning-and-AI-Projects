@@ -37,7 +37,7 @@ After rigorous experimentation, **KNN with k=7, Euclidean distance, and uniform 
    ```
 
 ## Repository
-Find the complete code and datasets on GitHub: [Iris Flower Dataset Project]([https://github.com/UsmanAbbasi2002/Iris_Flower_Dataset_Work/tree/main](https://github.com/UsmanAbbasi2002/Machine-Learning-and-AI-Projects/tree/main/Iris_Flower_Project))
+Find the complete code and datasets on GitHub: [Iris Flower Dataset Project]([https://github.com/UsmanAbbasi2002/Iris_Flower_Dataset_Work/tree/main](https://github.com/UsmanAbbasi2002/Machine-Learning-and-AI-Projects/tree/main/Iris_Flower_Project)
 
 ## License
 This project is open-source and available for educational purposes.
